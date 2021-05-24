@@ -1,5 +1,6 @@
 body {
   background-image: url("../imagens/desenho-loucao.jpg");
+  background-repeat: no-repeat;
 }
 
 table, td, th {
